@@ -16,4 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![test](/pics/admin.jpeg "test")
+![admin](/pics/admin.jpeg "admin")
+![drawer](/pics/drawer.jpeg "drawer")
+![defected](/pics/defected.jpeg "defected")
+![category](/pics/cat.jpegadmin.jpeg "category")
+![boards](/pics/boards.jpeg "boards")
+![admin_drawer](/pics/admin_drawer.jpeg "admin_drawer")
+![splash](/pics/splash.jpeg "splash")
