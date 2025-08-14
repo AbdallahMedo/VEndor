@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796509337071",
+    "project_id": "vendor-app-8ebba",
+    "storage_bucket": "vendor-app-8ebba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796509337071:android:81efeb1a5e25b2782d321a",
+        "android_client_info": {
+          "package_name": "com.example.vendor_chem_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgIGXwGZdf4J0_q7qpOB7A09qyGIrlUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
