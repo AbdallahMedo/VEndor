@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 ![admin](/pics/admin.jpeg "admin")
 ![drawer](/pics/drawer.jpeg "drawer")
 ![defected](/pics/defected.jpeg "defected")
-![category](/pics/cat.jpeg.jpeg "category")
+![category](/pics/cat.jpeg "category")
 ![boards](/pics/boards.jpeg "boards")
 ![admin_drawer](/pics/admin_drawer.jpeg "admin_drawer")
 ![splash](/pics/splash.jpeg "splash")
